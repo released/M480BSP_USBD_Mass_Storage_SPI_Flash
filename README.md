@@ -23,7 +23,7 @@ update @ 2023/02/06
 
 	- ex : W25Q32JV ( 32MBit = 4MB ) , modify SPI_FLASH_STORAGE_SIZE to (4*1024*1024)
 	
-4. below is LA READ MDID 
+4. below is LA READ ID capture 
 
 ![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/blob/main/LA_ReadMidDid.jpg)
 
