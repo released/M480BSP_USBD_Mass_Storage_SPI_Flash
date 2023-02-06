@@ -23,15 +23,13 @@ update @ 2023/02/06
 	
 3. below is LA READ MDID 
 
-![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/blob/master/LA_ReadMidDid.jpg)
-
+![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/main/LA_ReadMidDid.jpg)
 
 below is log mesage 
 
-![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/blob/master/LA_ReadMidDid.jpg)
-
+![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/main/log.jpg)
 
 below is WINDOWS file manager display , 
 
-![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/blob/master/windows.jpg)
+![image](https://github.com/released/M480BSP_USBD_Mass_Storage_SPI_Flash/main/windows.jpg)
 
